@@ -42,9 +42,9 @@ Para ejecutar estos scripts, es necesario contar con:
    ```
 4. Observa las simulaciones gráficas generadas en MATLAB.
 
-## Contacto
-Si tienes alguna duda o sugerencia, no dudes en crear un *issue* o contribuir con mejoras en el código.
-
-## Licencia
-Este proyecto está disponible bajo la licencia MIT.
+##
+## Anexos
+<img src="https://imgur.com/1vJLTk4.jpg" alt="matlabImage" width="500"/>
+<img src="https://imgur.com/NZMv5d8.jpg" alt="matlabImage" width="500"/>
+<img src="https://imgur.com/HBoBdBU.jpg" alt="matlabImage" width="500"/>
 
