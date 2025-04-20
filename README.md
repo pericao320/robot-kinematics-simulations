@@ -45,6 +45,3 @@ Para ejecutar estos scripts, es necesario contar con:
 ## Contacto
 Si tienes alguna duda o sugerencia, no dudes en crear un *issue* o contribuir con mejoras en el código.
 
-## Licencia
-Este proyecto está disponible bajo la licencia MIT.
-
